@@ -1,16 +1,94 @@
-## Hi there 👋
+👋 Hi, I'm Sachin B
 
-<!--
-**sain169b-del/sain169b-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate Engineering Student
+📍 Currently studying at Monash University, Australia
+💻 Python Developer | Data & Automation Enthusiast
+🌏 Originally from Mysuru, India
 
-Here are some ideas to get you started:
+I enjoy building practical tools, automation scripts, and data-driven applications. My focus is on using Python to solve real-world problems, from automation to analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+
+Languages
+
+Python 🐍
+
+SQL
+
+Bash (basic)
+
+Tools & Technologies
+
+Git & GitHub
+
+Jupyter Notebook
+
+Pandas & NumPy
+
+REST APIs
+
+Linux
+
+📌 Featured Projects
+🏥 Ambu Bag Automation
+
+Automated mechanical compression system for an Ambu bag ventilator prototype designed to assist manual ventilation.
+
+Tech: Python, Embedded Systems
+Highlights:
+
+Automation logic for repetitive compression cycles
+
+Focus on reliability and safety
+
+📊 Data Analysis Toolkit
+
+A collection of Python notebooks for data cleaning, visualization, and statistical analysis.
+
+Tech: Python, Pandas, Matplotlib
+
+Features:
+
+Data preprocessing scripts
+
+Visualization dashboards
+
+Statistical summaries
+
+🤖 Task Automation Scripts
+
+Small Python utilities that automate repetitive workflows.
+
+Examples include:
+
+File organization scripts
+
+CSV data processing
+
+Batch renaming tools
+
+🧠 Interests
+
+Data Analytics
+
+Automation & Productivity Tools
+
+Business Analytics
+
+Problem Solving through Code
+
+📚 Currently Learning
+
+Advanced Python for Data Analysis
+
+Machine Learning Basics
+
+Scalable Data Pipelines
+
+📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+
+GitHub: https://github.com/YOUR-USERNAME
+
+⭐ Always open to collaborating on interesting Python or data-related projects.
